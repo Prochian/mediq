@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mediq/static/css/main.4e9d9587.css",
+    "main.js": "/mediq/static/js/main.776df5d6.js",
+    "static/js/453.90600e3e.chunk.js": "/mediq/static/js/453.90600e3e.chunk.js",
+    "index.html": "/mediq/index.html",
+    "main.4e9d9587.css.map": "/mediq/static/css/main.4e9d9587.css.map",
+    "main.776df5d6.js.map": "/mediq/static/js/main.776df5d6.js.map",
+    "453.90600e3e.chunk.js.map": "/mediq/static/js/453.90600e3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e9d9587.css",
+    "static/js/main.776df5d6.js"
+  ]
+}
